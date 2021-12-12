@@ -6,4 +6,3 @@ This repository has jupyter notebooks  that demonstrate the use of a few popular
 4) NMT_Attention: An attention based model for neural machine translation from german to english. The model is trained on [Multi30k](https://pytorch.org/text/stable/datasets.html#torchtext.datasets.Multi30k) dataset.[PyTorch+ Tensorboard logging]
 5) NMT_Transformer: An neural machine translation model based on transformer architecture. Same data as in NMT_Attention. [Pytorch + WandB logging]
 
-[TODO] Clean up the notebooks to make them more readable.
